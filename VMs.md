@@ -22,6 +22,6 @@ https://my.ablazedesktop.com/
 | Abhay | Nirgudkar | WSBAC626-16 | TEKwsbac626! |
 | Kavitha | Balasundaram | WSBAC626-17 | TEKwsbac626! |
 | Rashmi | Dwarakanath | WSBAC626-18 | TEKwsbac626! |
-| TBD |  | WSBAC626-19 | TEKwsbac626! |
+| John | Weber | WSBAC626-19 | TEKwsbac626! |
 | TBD |  | WSBAC626-20 | TEKwsbac626! |
 | *(Instructor)* |  | WSBAC626-21 | TEKwsbac626! |
