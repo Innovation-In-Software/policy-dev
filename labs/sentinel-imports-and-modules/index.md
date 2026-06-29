@@ -112,7 +112,7 @@ You can use modules locally with the open-source Sentinel CLI by configuring the
 
 4. Run your policy:
    ```bash
-   sentinel apply policy.sentinel
+   sentinel apply -trace policy.sentinel
    ```
    You should see `hello world!` printed in the trace output and the policy should pass.
 
