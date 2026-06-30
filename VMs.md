@@ -2,7 +2,7 @@
 
 https://my.ablazedesktop.com/
 
-| First Name | Last Name | Account ID | Password | ABlaze User | Admin User | Admin Password | GitHub Classroom Account | GitHub Classroom Password |
+| First Name | Last Name | Ablaze user | Password | AWS Account ID | AWS User | AWS Password | GitHub Account | GitHub Password |
 |------------|-----------|------------|----------|-------------|------------|----------------|--------------------------|---------------------------|
 | Ryan | Thompson | WSBAC626-01 | TEKwsbac626! | iis-student44 | autodev-admin | Tr@!ninG2025 | IIS-GHCStudent118 | Tr@ininG2026 |
 | Samnita | Matthew | WSBAC626-02 | TEKwsbac626! | iis-student45 | autodev-admin | Tr@!ninG2025 | IIS-GHCStudent91 | Tr@ininG2026 |
