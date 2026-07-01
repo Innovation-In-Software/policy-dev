@@ -37,13 +37,7 @@ HCP Terraform runs Terraform operations and stores state remotely, providing a s
    cd learn-terraform-variables
    ```
 
-   2. VS Code:
-      1. Open Visual Studio Code
-      2. In Visual Studio Code, click **Clone Repository** and paste your new repository URL: `https://github.com/<your-username>/learn-terraform-variables.git`
-      3. Hit **Enter**, and in the pop-up window, browse to `C:\Users\tekstudent\Downloads\labs\tf-lab12`
-      4. Click **Select as repository destination**
-      5. When prompted to open the cloned repo, choose **Open**.
-      6. After opening the folder, click the third icon in the left toolbar for source control. Next to **changes**, click the ellipses (three dots) and choose **pull**.
+
 5. All subsequent commands in this lab should be run from within the `learn-terraform-variables` directory.
 
 #### 3. Prerequisites
