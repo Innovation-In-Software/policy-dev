@@ -161,6 +161,7 @@ Terraform will initialize the working directory, download required provider plug
 
 To allow Terraform to authenticate with AWS, you need to add your AWS credentials as environment variables at the workspace level in HCP Terraform:
 
+- Visit HCP platform https://app.terraform.io/app/organizations
 - Navigate to your workspace in the HCP Terraform UI. First select the 'policy-as-code-training' organization, click workspaces in the left hand menu, and finally select your workspace.
 - Go to the **Variables** page.
 - In the **Workspace variables** section, click **+ Add variable**.
@@ -191,7 +192,7 @@ Your workspace is now configured with the necessary AWS credentials, which will 
 #### 1. Configure Workspace-Specific Variables
 
 HCP Terraform allows you to define input variables directly in the workspace UI, making it easy to customize your infrastructure without editing code.
-- Visit HCP platform https://app.terraform.io/app/organizations
+
 - Ensure you are still on the workspace variables settings page, if not, navigate to it.
 - In the **Workspace variables** section, click **+ Add variable**.
 - Select the **Terraform variable** radio button.
