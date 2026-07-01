@@ -63,7 +63,7 @@ main = rule {
 #### 3. Connect the Policy Set to HCP Terraform
 
 - In the HCP Terraform UI, navigate to your organization's **Settings** > **Policy Sets**.
-- Click **Connect a new policy set**.
+- Click **Create a new policy set**.
 - Select **Version Control provider**
 - On the settings page:
   - Name your policy "{workspace-name}-policy"
