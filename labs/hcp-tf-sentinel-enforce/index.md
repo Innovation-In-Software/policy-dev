@@ -30,13 +30,6 @@ Policy as code allows you to define, version, and enforce rules for your infrast
   cd learn-terraform-enforce-policies
   ```
 
-  2. VS Code:
-     1. Open Visual Studio Code
-     2. In Visual Studio Code, click **Clone Repository** and paste your new repository URL: `https://github.com/<your-username>/learn-terraform-enforce-policies.git`
-     3. Hit **Enter**, and in the pop-up window, browse to `C:\Users\tekstudent\Downloads\labs\tf-lab14`
-     4. Click **Select as repository destination**
-     5. When prompted to open the cloned repo, choose **Open**.
-     6. After opening the folder, click the third icon in the left toolbar for source control. Next to **changes**, click the ellipses (three dots) and choose **pull**.
 
 - Once forked, clone your forked repository to your local machine:
 
