@@ -28,7 +28,7 @@ HCP Terraform runs Terraform operations and stores state remotely, providing a s
 1. Go to [https://github.com/jruels/learn-terraform-variables](https://github.com/jruels/learn-terraform-variables) in your web browser.
 2. Click the **Fork** button in the top right corner and fork the repository to your own GitHub account.
 3. Enter your lab directory: `labs/lab12` with  "open in integrated terminal"
-4. Once forked, clone your forked repository to your local machine:
+4. Once forked, clone your forked repository to your local machine (make sure to update username): 
 
    1. CLI
 
